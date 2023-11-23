@@ -1,0 +1,1 @@
+{"id":"dd1b5a23-e216-4a03-b24d-b600f4cf2bc9","timestamp":1700783214479,"matcher":{"static":{"/":null,"/api":null,"/api/search":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/introduction/getting-started","/introduction/vue-and-nuxt","/introduction/directory-structure"]}
